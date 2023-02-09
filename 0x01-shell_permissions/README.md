@@ -1,1 +1,2 @@
-Shell Permissions
+Shell Permissionsics
+a script that switches the current user to the user betty
